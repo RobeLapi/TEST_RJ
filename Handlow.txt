@@ -2,5 +2,7 @@
 2. Generowanie sprzedaży poprzez prezentowanie oferty firmy
 3. Negocjowanie warunków handlowych
 4. Zapewnianie wysokiej jakości obsługi klienta
-5. Zarządzanie personelem oraz wszystkimi sprawami związanymi z zatrudnieniem pracowników,
-6. Rekrutacja, selekcja kandydatów, przygotowanie dokumentacji zatrudnieniowej, prowadzenie akt osobowych,
+5. Zarządzanie personelem oraz wszystkimi sprawami 
+związanymi z zatrudnieniem pracowników,
+6. Rekrutacja, selekcja kandydatów, 
+przygotowanie dokumentacji zatrudnieniowej, prowadzenie akt osobowych,
